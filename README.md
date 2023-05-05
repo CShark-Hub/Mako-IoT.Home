@@ -69,7 +69,7 @@ Take a look at [Samples](https://github.com/CShark-Hub/Mako-IoT.Samples).
 
 
 ### Displays & Hardware
-- [Display Abstractions]https://github.com/CShark-Hub/Mako-IoT.Device.Displays.Core
+- [Display Abstractions](https://github.com/CShark-Hub/Mako-IoT.Device.Displays.Core)
 - [LED](https://github.com/CShark-Hub/Mako-IoT.Device.Displays.Led)
 - [I2C Bus](https://github.com/CShark-Hub/Mako-IoT.Device.Buses.I2C)
 - [SSD1306](https://github.com/CShark-Hub/Mako-IoT.Device.Displays.SSD1306)
