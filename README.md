@@ -10,7 +10,6 @@ The goal of MAKO IoT is to provide:
 # Build your app with MAKO IoT
 
 ## Pre-requisites
-- Configure nuget feed for MAKO IoT [https://nuget.pkg.github.com/CShark-Hub/index.json](https://nuget.pkg.github.com/CShark-Hub/index.json). This can be done simply by placing _nuget.config_ file in your solution folder (see [Samples](https://github.com/CShark-Hub/Mako-IoT.Samples)).
 - Install [.NET nanoFramework](https://docs.nanoframework.net/content/getting-started-guides/index.html)
 
 ## Code your project
