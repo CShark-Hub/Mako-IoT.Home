@@ -92,5 +92,5 @@ With those componentes you can read & write configuration through REST API. This
 - [Configuration API](https://github.com/CShark-Hub/Mako-IoT.Samples/tree/main/ConfigurationAPI) - Shows how to configure your settings from external.
 - [Log Storage](https://github.com/CShark-Hub/Mako-IoT.Samples/tree/main/LogStorage) - Example usage of logging to local storage and sending out the logs to Elasticsearch server.
 - [Mediator](https://github.com/CShark-Hub/Mako-IoT.Samples/tree/main/Mediator) - Example of [Mediator](https://github.com/CShark-Hub/Mako-IoT.Device.Services.Mediator) usage.
-- [Waste Bins Calendar](https://github.com/CShark-Hub/Mako-IoT.Samples/tree/main/WasteBinsCalendar) - Project of a device, which indicates bins for collections on a given day. It demonstrates how to compose multiple MAKO IoT building blocks into a useful product :)
+- [Waste Bins Calendar](https://github.com/CShark-Hub/Mako-IoT.Samples/tree/main/WasteBinsCalendar) - Project of a device, which indicates bins for collection on a given day. It demonstrates how to compose multiple MAKO IoT building blocks into a useful product :)
 
