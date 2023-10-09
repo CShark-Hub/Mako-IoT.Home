@@ -60,13 +60,15 @@ With those componentes you can read & write configuration through REST API. This
 #### Message Bus - device
 - [Message Bus](https://github.com/CShark-Hub/Mako-IoT.Device.Services.Messaging) - Message bus with strongly-typed contracts and automatic (type & convention based) routing.
 - [MQTT](https://github.com/CShark-Hub/Mako-IoT.Device.Services.Mqtt) - MQTT transport for the [Message Bus](https://github.com/CShark-Hub/Mako-IoT.Device.Services.Messaging).
+- [AzureIoT](https://github.com/CShark-Hub/Mako-IoT.Device.Services.AzureIotHub) - AzureIoT transport for the [Message Bus](https://github.com/CShark-Hub/Mako-IoT.Device.Services.AzureIotHub).
 #### Message Bus - .NET Core
 - [Interfaces](https://github.com/CShark-Hub/Mako-IoT.Core.Services.Interface) - .NET Core interfaces for Message Bus
 - [Message Bus](https://github.com/CShark-Hub/Mako-IoT.Core.Services.Messaging) - .NET Core implementation of Message Bus
 - [MQTT](https://github.com/CShark-Hub/Mako-IoT.Core.Services.Mqtt) - MQTT transport for [Message Bus](https://github.com/CShark-Hub/Mako-IoT.Core.Services.Messaging)
 #### Other
 - [Data Providers](https://github.com/CShark-Hub/Mako-IoT.Device.Services.DataProviders) - If you need to periodically read a sensor or submit data of an event, this is where you start :)
-
+- [ESP32 DeepSleep Data Provider](https://github.com/CShark-Hub/Mako-IoT.Device.Services.ESP32.DeepSleepDataProviders) - If you need to periodically read a sensor or submit data of an event and go to sleep, this is where you start :)
+  
 ### In-process communication
 - [Mediator](https://github.com/CShark-Hub/Mako-IoT.Device.Services.Mediator) - Mediator pattern implementation. An easy-to-use publisher-subscriber bus.
 
