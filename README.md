@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has been archived.** Its full history now lives in the
+> [`CShark-Hub/Mako-IoT`](https://github.com/CShark-Hub/Mako-IoT) monorepo under `home`
+> (original `main` tip: tag `legacy/Mako-IoT.Home`).
+
 # Welcome to MAKO IoT
 MAKO IoT is a platform for building IoT applications based on .NET. It leverages the power of C# language and software best practices. It is based on [.NET nanoFramework](https://www.nanoframework.net/)
 
